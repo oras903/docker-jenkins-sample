@@ -1,4 +1,4 @@
-FROM centos:latest
+FROM centos
 MAINTAINER James Turnbull "james@example.com"
 ENV REFRESHED_AT 2016-06-01
 ENV http_proxy http://10.213.210.67:1234
